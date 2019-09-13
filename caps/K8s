@@ -1,0 +1,10 @@
+Kubernetes Objects:
+==================
+Pod
+Replication Controller
+Replica Set
+Daemon Set
+Deployment
+service
+job
+volume
