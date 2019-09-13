@@ -2,6 +2,8 @@ Basic Commands of nodejs applications:
 =====================================
 npm install
 
+npx lerna clean
+
 npx lerna bootstrap
 
 npx lerna bootstrap --scope <project-name>
